@@ -14,12 +14,16 @@ export default function Home() {
     <Menu />
     </div>
 
-    <div>
-    <Banner/>
-    
-    <Card />
+    <div className='m-24'>
 
-    <Experiencia />
+
+    <Banner/> 
+    
+    <div className='mt-10'>
+    <Card /></div>
+
+    <div className='mt-10'>
+    <Experiencia /></div>
 
     </div>
 
