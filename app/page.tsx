@@ -8,28 +8,28 @@ export default function Home() {
     <>
 
 
-    <div className="w-[1440px] h-[2467px] relative bg-black display: inline-flex">
-      
-    <div>
-    <Menu />
-    </div>
+      <div className="w-[1440px] h-[2467px] relative bg-slate-600 display: inline-flex">
 
-    <div className='m-24'>
+        
+          <Menu />
+        
 
-
-    <Banner/> 
-    
-    <div className='mt-10'>
-    <Card /></div>
-
-    <div className='mt-10'>
-    <Experiencia /></div>
-
-    </div>
+        <div className='ml-96 mt-16'>
 
 
+          <Banner />
 
-    </div>
+          <div className='mt-16'>
+            <Card /></div>
+
+          <div className='mt-16'>
+            <Experiencia /></div>
+
+        </div>
+
+
+
+      </div>
 
 
     </>

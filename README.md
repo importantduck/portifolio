@@ -38,30 +38,36 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 O que mais lhe fez pensar na elaboração do seu site, para garantir que o usuário tenha a melhor interação possível com  o seu sistema (produto)?
 
+- Para garantir que o usuário navegue pelo site sem perder de foco a pessoa dona do portifólio, optei por um "menu" fixo onde em todas as páginas ou posições que ele utilize, o perfil com nome, dados e especialidades não sairá da tela.
+
 No que você mais pensou na elaboração do tema escolhido? Explique de acordo com : cores, fontes e design?
+
+- Pensei em manter um design minimalista, com cores neutras e fontes padrão.
 
 De acordo com o propósito de seu site, oque mais irá atrair o cliente para a compra do seu produto (venda de seus conhecimentos)?
 
 
 Avalie de 1 a 10 os seguintes tópicos referentes ao site elaborado : 
 
-	O nível de satisfação que quer atingir em relação a experiência do usuário?
+	O nível de satisfação que quer atingir em relação a experiência do usuário? 10
 
-	Atrativo visual. 
+	Atrativo visual. 7
 
-	Utilidade. ...
+	Utilidade. ... 10
 
-	Acessibilidade. ...
+	Acessibilidade. ... 10
 	
-	Credibilidade. ...
+	Credibilidade. ... 8
 	
-	Intuitividade. ...
+	Intuitividade. ... 10
 	
-	Desempenho técnico. ...
+	Desempenho técnico. ... 10
 
-	Proximidade e cumplicidade. ...
+	Proximidade e cumplicidade. ... 8
 
-	Inovação e originalidade.
+	Inovação e originalidade. 6
 
 
 O que é um padrão de design e porque você deve seguir esses padrões?
+
+- Um padrão de design é um conjunto de elementos de identidade visual que servem tanto para encantar quanto para facilitar a experiência de um usuário, deve ser seguido porque além de usabilidade também passa credibilidade ao produto.
